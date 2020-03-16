@@ -3,11 +3,11 @@ layout: page
 title: info
 permalink: /about/
 ---
+Valores Éticos
+--------------
 
-Seguimiento de las asignaturas
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+- **1ESOD** -- Trabajo sobre película. Subida de materiales: día 17
+- **2ESO**
 
 ### Contact me
 
