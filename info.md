@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Info
-permalink: /about/
+title: info
+permalink: /info/
 ---
 
 Seguimiento de las asignaturas
