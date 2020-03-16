@@ -3,12 +3,19 @@ layout: page
 title: info
 permalink: /about/
 ---
+
+2BACH: Psicología
+-----------------
+
+1BACH: Filosofía
+----------------
+
 Valores Éticos
 --------------
 
 - **1ESOD** -- Trabajo sobre película. Subida de materiales: día 17
-- **2ESO**
+- **2ESO**  -- Trabajo sobre película. Subida de materiales: dia 17
 
-### Contact me
+### Contacto
 
-[email@domain.com](mailto:email@domain.com)
+[jsantacruz@iescabodelahuerta.com](mailto:jsantacruz@iescabodelahuerta.com)
