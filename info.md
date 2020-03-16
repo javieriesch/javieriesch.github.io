@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: Info
 permalink: /about/
 ---
 
-Some information about you!
-
+Seguimiento de las asignaturas
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
