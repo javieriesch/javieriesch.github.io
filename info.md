@@ -4,8 +4,8 @@ title: info
 permalink: /about/
 ---
 
-2BACH: Psicología
------------------
+# [2BACH: Psicología](https://javieriesch.github.io/2BACH/)
+
 
 1BACH: Filosofía
 ----------------
