@@ -7,14 +7,13 @@ permalink: /about/
 # [2BACH: Psicología](https://javieriesch.github.io/2BACH/)
 
 
-1BACH: Filosofía
-----------------
+# [1BACH: Filosofía](https://javieriesch.github.io/1BACH/)
 
-Valores Éticos
---------------
-
-- **1ESOD** -- Trabajo sobre película. Subida de materiales: día 17
-- **2ESO**  -- Trabajo sobre película. Subida de materiales: dia 17
+# Valores Éticos:
+## [1ESO](https://javieriesch.github.io/1ESO/)
+## [2ESO](https://javieriesch.github.io/2ESO/)
+## [3ESO](https://javieriesch.github.io/3ESO/)
+## [4ESO](https://javieriesch.github.io/4ESO/)
 
 ### Contacto
 
