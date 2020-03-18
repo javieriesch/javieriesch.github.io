@@ -10,6 +10,3 @@ permalink: /about/
 ## [2ESO: Valores Éticos](https://javieriesch.github.io/2ESO/)
 ## [3ESO: Valores Éticos](https://javieriesch.github.io/3ESO/)
 ## [4ESO: Valores Éticos](https://javieriesch.github.io/4ESO/)
-### Contacto
-
-[jsantacruz@iescabodelahuerta.com](mailto:jsantacruz@iescabodelahuerta.com)
