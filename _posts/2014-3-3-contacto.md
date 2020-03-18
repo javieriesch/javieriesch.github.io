@@ -1,10 +1,8 @@
 ---
 layout: post
-title: 
+title: Contacto: jsantacruz@iescabodelahuerta.com](mailto:jsantacruz@iescabodelahuerta.com)
 ---
 
-# Contacto
 
-jsantacruz@iescabodelahuerta.com](mailto:jsantacruz@iescabodelahuerta.com)
 
 
