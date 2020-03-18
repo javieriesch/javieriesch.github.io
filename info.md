@@ -1,6 +1,6 @@
 ---
 layout: page
-title: info
+title: Enlace a los contenidos de cada curso
 permalink: /about/
 ---
 
